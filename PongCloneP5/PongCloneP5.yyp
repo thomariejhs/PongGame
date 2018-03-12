@@ -71,6 +71,22 @@
             }
         },
         {
+            "Key": "4e3bffcf-7038-472c-a88d-576f5b5607d8",
+            "Value": {
+                "id": "3929f11b-3b9b-4c5d-9c75-278ea4dfee56",
+                "resourcePath": "objects\\objPlayer1\\objPlayer1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "687e6344-2b51-4e53-9f72-4a380a3ef4e1",
+            "Value": {
+                "id": "4809f264-5fe3-471e-8ac7-cb1cad63bf99",
+                "resourcePath": "sprites\\sprPlayer2\\sprPlayer2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6eb54676-0fc0-439d-9d47-c0e9a42b0090",
             "Value": {
                 "id": "d2452545-3b7e-45d7-97c2-e8f7f01057cf",
@@ -87,6 +103,14 @@
             }
         },
         {
+            "Key": "73f991ea-236e-442e-8055-4fe16c6f998c",
+            "Value": {
+                "id": "567969cc-9487-4e8f-8723-53f2591582ed",
+                "resourcePath": "objects\\objPlayer2\\objPlayer2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8ad8dba8-d557-4a4f-8a27-746e3f91747f",
             "Value": {
                 "id": "baea667d-5b1c-422d-95cc-fbc75a7f601b",
@@ -100,6 +124,14 @@
                 "id": "3b708bc5-4277-4fff-9eb3-523b1e735d79",
                 "resourcePath": "views\\b4d39dd2-337c-48ce-9b38-9d22d62b5343.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bf944c4a-c5b7-41a5-b059-1ead469124e0",
+            "Value": {
+                "id": "dc04b1f1-f6e4-4aa0-8d1a-dd9575f6fdf1",
+                "resourcePath": "sprites\\sprPlayer1\\sprPlayer1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -138,7 +170,7 @@
             "Key": "e831c882-fcd5-4565-b899-9fa46fecc996",
             "Value": {
                 "id": "6c286440-fdc6-4b8c-9aad-7838e269fa79",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm1\\rm1.yy",
                 "resourceType": "GMRoom"
             }
         },
