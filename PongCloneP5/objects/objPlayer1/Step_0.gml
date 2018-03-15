@@ -1,13 +1,13 @@
-/// @description Move Player 2 Paddle
+/// @description Move Player 1 Paddle
 
 mySpeed = 10
 
-if keyboard_check(vk_up)
+if keyboard_check(ord("W"))
 {
 	y = y - mySpeed
 }
 
-if keyboard_check(vk_down)
+if keyboard_check(ord("S"))
 {
 	y = y + mySpeed
 }
